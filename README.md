@@ -1,0 +1,2 @@
+# JavaTraining
+java training katas
